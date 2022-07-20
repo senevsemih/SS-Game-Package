@@ -2,8 +2,11 @@
     "name": "com.GamePackage.Tests.Runtime",
     "rootNamespace": "",
     "references": [
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
         "GUID:4378f40cf3e289e4e97d64fe7eca703f",
-        "GUID:6055be8ebefd69e48b49212b09b47b2f"
+        "GUID:6410d1640f2bf3440ad2ea6d79a0c2d8",
+        "GUID:f878b78c1f294e84ab49a649cd773c59",
+        "GUID:73e5c6a3bf389d547ba29721275aaa8d"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],
